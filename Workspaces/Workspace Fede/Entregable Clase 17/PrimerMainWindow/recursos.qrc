@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/close.svg</file>
+        <file>recursos/open.svg</file>
+        <file>recursos/print.svg</file>
+        <file>recursos/save as.svg</file>
+        <file>recursos/save.svg</file>
+        <file>recursos/abrir.svg</file>
+        <file>recursos/logo.png</file>
+    </qresource>
+</RCC>

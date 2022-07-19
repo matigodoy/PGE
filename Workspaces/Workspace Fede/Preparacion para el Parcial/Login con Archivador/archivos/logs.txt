@@ -1,0 +1,2 @@
+Base de Datos conectada | 2021.10.20 13.43.27 | La Base de Datos se conecto correctamente
+Usuario Valido | 2021.10.20 13.43.32 | El usuario admin se logueo correctamente

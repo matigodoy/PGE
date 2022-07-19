@@ -1,0 +1,11 @@
+release/boton.o
+release/login.o
+release/main.o
+release/formulario.o
+release/manager.o
+release/ventana.o
+release/moc_boton.o
+release/moc_formulario.o
+release/moc_login.o
+release/moc_manager.o
+release/moc_ventana.o

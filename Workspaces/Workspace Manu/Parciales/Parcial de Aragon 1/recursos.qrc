@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/new_galleria.png</file>
+        <file>recursos/new_sublime.png</file>
+        <file>recursos/save_galleria.png</file>
+        <file>recursos/save_sublime.png</file>
+        <file>recursos/donat.png</file>
+    </qresource>
+</RCC>

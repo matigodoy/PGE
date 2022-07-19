@@ -1,0 +1,11 @@
+debug/boton.o
+debug/login.o
+debug/main.o
+debug/formulario.o
+debug/manager.o
+debug/ventana.o
+debug/moc_boton.o
+debug/moc_formulario.o
+debug/moc_login.o
+debug/moc_manager.o
+debug/moc_ventana.o

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/guardar.png</file>
+        <file>recursos/nuevo.png</file>
+        <file>recursos/file-regular.svg</file>
+        <file>recursos/save-regular.svg</file>
+        <file>recursos/alipay-brands.svg</file>
+        <file>recursos/logo.png</file>
+        <file>recursos/alfiler.png</file>
+        <file>recursos/documento.png</file>
+        <file>recursos/subir.png</file>
+    </qresource>
+</RCC>

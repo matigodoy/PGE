@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/guardar.png</file>
+        <file>recursos/nuevo.png</file>
+        <file>recursos/guardar2.png</file>
+        <file>recursos/nuevo2.png</file>
+        <file>recursos/new_classic.png</file>
+        <file>recursos/new_dark.png</file>
+        <file>recursos/new_galleria.png</file>
+        <file>recursos/new_sublime.png</file>
+        <file>recursos/save_classic.png</file>
+        <file>recursos/save_dark.png</file>
+        <file>recursos/save_galleria.png</file>
+        <file>recursos/save_sublime.png</file>
+    </qresource>
+</RCC>
